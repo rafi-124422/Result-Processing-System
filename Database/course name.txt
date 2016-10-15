@@ -1,0 +1,43 @@
+CSE 4101             Computer Fundamentals and Programming
+CSE 4102             Computer Fundamentals and Programming Lab
+CSE 4104             Engineering Drawing Lab
+CSE 4201             Computer Programming
+CSE 4202             Computer Programming Lab
+CSE 4203             Discrete Mathematics
+CSE 4301             Object Oriented Programming
+CSE 4302             Object Oriented Programming Lab
+CSE 4303             Data Structure
+CSE 4304             Data Structure Lab
+CSE 4305             Computer Organisation and Architecture
+CSE 4307             Database Management Systems
+CSE 4308             Database Management Systems Lab
+CSE 4401             Visual Programming
+CSE 4402             Visual Programming Lab
+CSE 4403             Algorithms
+CSE 4404             Algorithms Lab
+CSE 4405             Data and Telecommunications
+CSE 4407             System Analysis and Design
+CSE 4408             System Analysis and Design Lab
+Chem 4205            Chemistry
+Chem 4206            Chemistry Lab
+EEE 4135             Electrical Engineering Fundamentals
+EEE 4136             Electrical Engineering Fundamentals Lab
+EEE 4235             Electronic Devices and Circuits
+EEE 4236             Electronic Devices and Circuits Lab
+EEE 4335             Digital Logic Design
+EEE 4336             Digital Logic Design Lab
+EEE 4435             Digital Electronics and Pulse Techniques
+EEE 4436             Digital Electronics and Pulse Techniques Lab
+Hum 0107             Islamiat
+Hum 0207             Islamic History, Science and Culture
+Hum 4149             Technology, Environment and Society
+Lang 0102            Spoken Arabic I
+Lang 0202            Spoken Arabic II
+Math 4107            Geometry and Differential Calculus
+Math 4207            Integral Calculus and Differential Equations
+Math 4307            Linear Algebra
+Math 4407            Statistical and Mathematical Analysis
+
+
+
+
